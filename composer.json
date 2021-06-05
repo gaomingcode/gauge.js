@@ -1,0 +1,19 @@
+{
+    "name": "gaomingcode/gauge.js",
+    "description": "100% native and cool looking JavaScript gauge.",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "jquery", "ajax", "jquery-plugin", "json", "json-form", "html-form", "form", "jquery-form"
+    ],
+    "homepage": "http://bernii.github.com/gauge.js",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Bernii"
+        }
+    ]
+}

@@ -1,5 +1,18 @@
-gauge.js
-========
+# gauge.js
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/gauge.js.svg)](https://github.com/gaomingcode/gauge.js)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/gauge.js)](https://github.com/gaomingcode/gauge.js)
+[![Github License](https://img.shields.io/github/license/gaomingcode/gauge.js)](https://github.com/gaomingcode/gauge.js)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/gauge.js
+```
+
+## ReadMe from Origin
 
 100% native and cool looking animated JavaScript/CoffeScript gauge.
 
